@@ -5,15 +5,15 @@ PctsNet: Single-cell analysis for cell type-specific cis-regulatory network pred
 ![PctsNet Workflow](https://github.com/qiuqin-wu/PctsNet/blob/main/Workflow.jpg)
 
 
-#Installation
+Installation
 
-#System Requirements
+System Requirements
 
 - Python Version >=3.8.0
 - Hardware Architecture: x86_64
 - Operating System: GNU/Linux or Windows or MacOS
 
-#Dependencies, PctsNet has the following dependencies:
+Dependencies, PctsNet has the following dependencies:
 
 - anndata==0.8.0
 - dill==0.3.4
